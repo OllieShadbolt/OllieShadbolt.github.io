@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #D0B3AD;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img.icon {
+    width: auto;
+    height: 50%;
+    border-radius: 50%;
+}
