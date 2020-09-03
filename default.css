@@ -8,17 +8,17 @@ body {
 }
 
 div {
-    align-items: center;
+	align-items: center;
 	display: flex;
-    font-family: "Lucida Console", Monaco, monospace;
-    font-size: 1.95vh;
-    height: 20%;
-    justify-content: center;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 1.95vh;
+	height: 20%;
+	justify-content: center;
 	padding-top: 20vh;
 	white-space: pre-line;
 }
 
 a {
-    color: black;
+	color: black;
 	text-decoration: none;		
 }
