@@ -1,11 +1,4 @@
-html, body, img {
-	height: 100%;
-}
-
-body {
-	background-color: #D0B3AD;
-	margin: 0;
-}
+html, body, img { height: 100%; }
 
 div {
 	align-items: center;
