@@ -1,18 +1,17 @@
-* {
+html {
+	background-color: black;
 	color: white;
-	height: 100%;
-}
-
-div {
-	align-items: center;
-	display: flex;
 	font-family: "Lucida Console", Monaco, monospace;
-	font-size: 2.2vh;
-	height: 20%;
-	justify-content: center;
-	padding-top: 20vh;
-}
-
-a {
-	text-decoration: none;		
-}
+	font-size: 5vh;
+	height: 100%;
+	position: relative;
+  }
+  
+  body {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+  }
